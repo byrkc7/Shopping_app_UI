@@ -1,1 +1,6 @@
-# Shopping_app_UI
+# Shopping_app_UI![1](https://user-images.githubusercontent.com/73910777/146820156-71a50854-1f5a-4689-aa6b-a31dfe871722.png)
+![2](https://user-images.githubusercontent.com/73910777/146820200-d84271e5-186c-4ffd-86e1-b0a99a33a98b.png)
+![3](https://user-images.githubusercontent.com/73910777/146820251-5e4267f2-ab69-4134-bd85-121b3a6bfe82.png)
+![4](https://user-images.githubusercontent.com/73910777/146820294-040bd690-a1b6-4f39-8b67-1d323cd06964.png)
+![5](https://user-images.githubusercontent.com/73910777/146820324-5a2dc1c2-1133-4ed4-936c-3ad4227ee5f6.png)
+![6](https://user-images.githubusercontent.com/73910777/146820366-ca4deec9-477d-45a3-8a64-19831a0e5696.png)
